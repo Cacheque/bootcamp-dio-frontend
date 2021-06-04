@@ -5,8 +5,10 @@
     "ng": "ng",
     "start": "ng serve --o",
     "build": "ng build",
+    "deploy": "ng deploy --base-href=https://Cacheque.github.io/bootcamp-dio-frontend/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
+
   },
   "private": true,
   "dependencies": {
